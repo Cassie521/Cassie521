@@ -13,5 +13,5 @@
 
 
 
-🙋🏻‍♀️ Currently I am seeking the new grad position in the data science field ~
+🙋🏻‍♀️ Currently I am seeking the new grad position in the data science field. 
 
