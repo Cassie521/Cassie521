@@ -12,5 +12,6 @@
 - ⚡ Fun fact: I like watching movies and eating French fries:) 
 
 
+
 🙋🏻‍♀️ Currently I am seeking the new grad position in the data science field ~
 
