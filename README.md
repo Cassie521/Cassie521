@@ -1,7 +1,7 @@
-### Hi, I'm Cassie. Nice to meet you! 👋 
+# Hi, I'm Cassie. Nice to meet you! 👋 
 
 
-## I am a Student 📚， Data Scientist 💻， Amateur Photographer 📷
+### I am a Student 📚， Data Scientist 💻， Amateur Photographer 📷
 
 - 🔭 I'm a graduate student in data science specialization @ University of Toronto
 - 🌱 I have strong passion in Machine Learning, Predictive Analytics, Natural Language Processing, Deep Learning, Statistical Analytics, Big Data Analytics, Business Intelligence and Time Series Forecasting.
@@ -10,5 +10,5 @@
 - ⚡ Fun fact: I like watching movies and eating French fries:) 
 
 
-🙋🏻‍♀️ Currently I am seeking the new grad position in the data science field. 
+🙋🏻‍♀️ Currently I am seeking the new grad position in the data science field ~
 
