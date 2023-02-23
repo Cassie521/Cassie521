@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Cassie. Nice to meet you! 👋 
 
-<!--
-**Cassie521/Cassie521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I am a Student 📚， Data Scientist 💻， Amateur Photographer 📷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm a graduate student in data science specialization @ University of Toronto
+- 🌱 I have strong passion in Machine Learning, Predictive Analytics, Natural Language Processing, Deep Learning, Statistical Analytics, Big Data Analytics, Business Intelligence and Time Series Forecasting.
+- 👉🏻 I am a great problem solver, decision maker and communicator. 
+- 📮 How to connect with me: xinyi.yao667@gmail.com | https://www.linkedin.com/in/cassie-yao-b261b21a8/
+- ⚡ Fun fact: I like watching movies and eating French fries:) 
+
+
+🙋🏻‍♀️ Currently I am seeking the new grad position in the data science field. 
+
